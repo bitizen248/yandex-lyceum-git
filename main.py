@@ -12,3 +12,4 @@ for elem in result:
     print(elem[0])
 
 con.close()
+print(123)
